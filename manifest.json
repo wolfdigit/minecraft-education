@@ -1,19 +1,18 @@
 {
-   "format_version" : 2,
+   "format_version" : 1,
    "header" : {
-      "base_game_version" : [ 1, 19, 51 ],
+      "base_game_version" : [ 0, 0, 0 ],
       "description" : "pack.description",
-      "lock_template_options" : false,
       "name" : "pack.name",
       "platform_locked" : false,
-      "uuid" : "66393666-6533-3564-3134-2d316363382d",
-      "version" : [ 1, 0, 9 ]
+      "uuid" : "64383634-3766-6532-3434-2d643032332d",
+      "version" : [ 1, 0, 7 ]
    },
    "modules" : [
       {
          "type" : "world_template",
-         "uuid" : "b2a5fbdb-8dd8-350a-8e1d-1597cdbf0190",
-         "version" : [ 1, 0, 9 ]
+         "uuid" : "24ba8333-ff72-3053-97d9-ee6b49af1713",
+         "version" : [ 1, 0, 7 ]
       }
    ]
 }
