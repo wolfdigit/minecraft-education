@@ -7,9 +7,11 @@ scoreboard players set @p f1-started 1
 
 function f1/f1_reset
 clear @p
+gamemode a @p
 
 # Spawn agent
 summon agent
+tp @c -394 153 212 facing -394 153 214
 
 # Don't give player the whistle (fishing_rod) until they complete agent certification task
 
