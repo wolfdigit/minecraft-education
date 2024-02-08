@@ -1,5 +1,5 @@
-title @p subtitle Now try to reach other golden block, in the tree to the left!
-title @p title Success!
+title @p subtitle 現在試著移動到另一個金色方塊，在左邊的樹裡面！
+title @p title 成功!
 summon fireworks_rocket -383 157 192
 
 # Set platform 1 to diamond
