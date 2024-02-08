@@ -1,0 +1,21 @@
+# All scoreboard variable name should be placed before 1 per line, this will automatically generate the f6_scoreboard_reset.mcfunction file.
+
+f6-status
+f6-active
+whistle-enabled
+
+f6-dig-prog
+f6-dig-comp
+f6-dig-count
+
+f6-plant-prog
+f6-plant-comp
+
+f6-rocket-prog
+f6-rocket-comp
+f6-rocket-count
+f6-rocket-corect
+
+f6-runway-prog
+f6-runway-comp
+f6-runway-count

@@ -1,0 +1,25 @@
+# All scoreboard variable name should be placed before 1 per line, this will automatically generate the f5_scoreboard_reset.mcfunction file.
+
+f5-status
+f5-active
+whistle-enabled
+
+
+f5-tower-prog
+f5-tower-comp
+f5-tower-title
+f5-tower-wrong
+f5-tower-timer
+
+
+f5-light-prog
+f5-light-comp
+f5-light-title
+
+f5-bounce-prog
+f5-bounce-comp
+f5-bounce-title
+
+f5-wire-prog
+f5-wire-comp
+f5-wire-title

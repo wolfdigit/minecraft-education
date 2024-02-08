@@ -1,0 +1,25 @@
+# All scoreboard variable name should be placed before 1 per line, this will automatically generate the f4_scoreboard_reset.mcfunction file.
+
+f4-status
+whistle-enabled
+
+f4-mine-b-prog
+f4-mine-b-comp
+f4-mine-b-blind
+f4-mine-b-title
+
+f4-farm-prog
+f4-farm-comp
+f4-farm-title
+
+f4-mine-f-prog
+f4-mine-f-comp
+f4-mine-f-title
+f4-mine-f-score
+
+f4-forest-prog
+f4-forest-comp
+f4-forest-d-t
+f4-forest-title
+f4-forest-item-t
+f4-forest-item
