@@ -1,3 +1,4 @@
+name: Auto compile Python_Islands_3.mcworld
 on:
   push:
     branches:
