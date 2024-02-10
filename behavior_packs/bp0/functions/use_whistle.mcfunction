@@ -13,8 +13,8 @@ execute @s ~ ~ ~ execute @s[scores={whistle-enabled=1},rym=-135,ry=-46] ~ ~ ~ te
 
 
 
-execute @s[scores={whistle-enabled=1}] ~ ~ ~ title @s subtitle Agent called
-execute @s[scores={whistle-enabled=0}] ~ ~ ~ title @s subtitle Agent can't be called in this task
+execute @s[scores={whistle-enabled=1}] ~ ~ ~ title @s subtitle Agent被叫來了
+execute @s[scores={whistle-enabled=0}] ~ ~ ~ title @s subtitle 現在這個任務裡不能叫agent過來
 
 
 execute @s[scores={whistle-enabled=1}] ~ ~ ~ title @s title ...

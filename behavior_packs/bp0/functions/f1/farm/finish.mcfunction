@@ -4,8 +4,8 @@ scoreboard players set §r objective 900090
 
 function f1/farm/quit
 
-title @p subtitle Task now complete
-title @p title Success!
+title @p subtitle 現在任務完成了
+title @p title 成功!
 
 summon fireworks_rocket -348 159 171
 
