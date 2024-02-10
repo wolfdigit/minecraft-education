@@ -1,8 +1,7 @@
 name: Auto compile Python_Islands_3.mcworld
 on:
   push:
-    branches:
-    - python_islands_3
+    branches: ['python_islands_3']
 jobs:
   mcworld:
     name: compile mcworld
