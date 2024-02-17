@@ -3,8 +3,8 @@ scoreboard players set @p f3-library-prog 0
 
 replaceitem entity @p slot.hotbar 1 nether_wart 1 16
 
-title @p subtitle Bring it to the Wizard now
-title @p title Book found!
+title @p subtitle 現在拿去給女巫
+title @p title 找到書了！
 
 function f3/Library/quit
 scoreboard players set §r objective 300040
