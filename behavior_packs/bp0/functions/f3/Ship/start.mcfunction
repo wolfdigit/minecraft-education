@@ -5,5 +5,5 @@ codebuilder navigate @p false https://notebooks.minecrafteduservices.com/evergla
 scoreboard players set §r objective 300003
 scoreboard players set @a f3-status 300003
 
-title @p subtitle to start coding!
-title @p title Press "C"
+title @p subtitle 開始寫程式!
+title @p title 按下"C"

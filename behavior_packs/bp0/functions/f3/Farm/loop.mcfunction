@@ -26,4 +26,4 @@ execute @p[scores={f3-farm-prog=25, f3-farm-titles=5}] ~ ~ ~ scoreboard players 
 
 execute @p[scores={f3-farm-prog=26}] ~ ~ ~ function f3/Farm/finish
 
-execute @p[scores={f3-farm-prog=1..25}, x=157, y=158, z=603, r=25] ~ ~ ~ title @s actionbar Press "C" to code or touch the Agent icon
+execute @p[scores={f3-farm-prog=1..25}, x=157, y=158, z=603, r=25] ~ ~ ~ title @s actionbar 按下"C"或觸控Agent圖示開始寫程式

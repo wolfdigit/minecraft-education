@@ -9,4 +9,4 @@ execute @p[scores={f3-mine-prog=2..6}] ~ ~ ~ function f3/Mine/check_block
 execute @p[scores={f3-mine-prog=6}] ~ ~ ~ function f3/Mine/finish
 execute @p[scores={f3-mine-prog=10}] ~ ~ ~ function f3/Mine/quit
 
-execute @p[scores={f3-mine-prog=1..6}, x=62, y=136, z=598, r=25] ~ ~ ~ title @s actionbar Press "C" to code or touch the Agent icon
+execute @p[scores={f3-mine-prog=1..6}, x=62, y=136, z=598, r=25] ~ ~ ~ title @s actionbar 按下"C"或觸控Agent圖示開始寫程式

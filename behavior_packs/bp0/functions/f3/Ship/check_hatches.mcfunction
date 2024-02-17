@@ -55,21 +55,21 @@ execute @p[scores={f3-ship-h-prog=1..}] ~ ~ ~ detect 107 152 669 carpet 0 scoreb
 execute @p[scores={f3-ship-h-prog=1..}] ~ ~ ~ detect 107 152 669 carpet 0 setblock 107 146 669 deny 0
 execute @p[scores={f3-ship-h-prog=1..}] ~ ~ ~ detect 107 152 669 carpet 0 setblock 107 152 669 carpet 7
 
-execute @p[scores={f3-ship-h-prog=1}] ~ ~ ~ title @p actionbar 18 hatches left to cover
-execute @p[scores={f3-ship-h-prog=2}] ~ ~ ~ title @p actionbar 17 hatches left to cover
-execute @p[scores={f3-ship-h-prog=3}] ~ ~ ~ title @p actionbar 16 hatches left to cover
-execute @p[scores={f3-ship-h-prog=4}] ~ ~ ~ title @p actionbar 15 hatches left to cover
-execute @p[scores={f3-ship-h-prog=5}] ~ ~ ~ title @p actionbar 14 hatches left to cover
-execute @p[scores={f3-ship-h-prog=6}] ~ ~ ~ title @p actionbar 13 hatches left to cover
-execute @p[scores={f3-ship-h-prog=7}] ~ ~ ~ title @p actionbar 12 hatches left to cover
-execute @p[scores={f3-ship-h-prog=8}] ~ ~ ~ title @p actionbar 11 hatches left to cover
-execute @p[scores={f3-ship-h-prog=9}] ~ ~ ~ title @p actionbar 10 hatches left to cover
-execute @p[scores={f3-ship-h-prog=10}] ~ ~ ~ title @p actionbar 9 hatches left to cover
-execute @p[scores={f3-ship-h-prog=11}] ~ ~ ~ title @p actionbar 8 hatches left to cover
-execute @p[scores={f3-ship-h-prog=12}] ~ ~ ~ title @p actionbar 7 hatches left to cover
-execute @p[scores={f3-ship-h-prog=13}] ~ ~ ~ title @p actionbar 6 hatches left to cover
-execute @p[scores={f3-ship-h-prog=14}] ~ ~ ~ title @p actionbar 5 hatches left to cover
-execute @p[scores={f3-ship-h-prog=15}] ~ ~ ~ title @p actionbar 4 hatches left to cover
-execute @p[scores={f3-ship-h-prog=16}] ~ ~ ~ title @p actionbar 3 hatches left to cover
-execute @p[scores={f3-ship-h-prog=17}] ~ ~ ~ title @p actionbar 2 hatches left to cover
-execute @p[scores={f3-ship-h-prog=18}] ~ ~ ~ title @p actionbar 1 hatches left to cover
+execute @p[scores={f3-ship-h-prog=1}] ~ ~ ~ title @p actionbar 還有18格開口要覆蓋
+execute @p[scores={f3-ship-h-prog=2}] ~ ~ ~ title @p actionbar 還有17格開口要覆蓋
+execute @p[scores={f3-ship-h-prog=3}] ~ ~ ~ title @p actionbar 還有16格開口要覆蓋
+execute @p[scores={f3-ship-h-prog=4}] ~ ~ ~ title @p actionbar 還有15格開口要覆蓋
+execute @p[scores={f3-ship-h-prog=5}] ~ ~ ~ title @p actionbar 還有14格開口要覆蓋
+execute @p[scores={f3-ship-h-prog=6}] ~ ~ ~ title @p actionbar 還有13格開口要覆蓋
+execute @p[scores={f3-ship-h-prog=7}] ~ ~ ~ title @p actionbar 還有12格開口要覆蓋
+execute @p[scores={f3-ship-h-prog=8}] ~ ~ ~ title @p actionbar 還有11格開口要覆蓋
+execute @p[scores={f3-ship-h-prog=9}] ~ ~ ~ title @p actionbar 還有10格開口要覆蓋
+execute @p[scores={f3-ship-h-prog=10}] ~ ~ ~ title @p actionbar 還有9格開口要覆蓋
+execute @p[scores={f3-ship-h-prog=11}] ~ ~ ~ title @p actionbar 還有8格開口要覆蓋
+execute @p[scores={f3-ship-h-prog=12}] ~ ~ ~ title @p actionbar 還有7格開口要覆蓋
+execute @p[scores={f3-ship-h-prog=13}] ~ ~ ~ title @p actionbar 還有6格開口要覆蓋
+execute @p[scores={f3-ship-h-prog=14}] ~ ~ ~ title @p actionbar 還有5格開口要覆蓋
+execute @p[scores={f3-ship-h-prog=15}] ~ ~ ~ title @p actionbar 還有4格開口要覆蓋
+execute @p[scores={f3-ship-h-prog=16}] ~ ~ ~ title @p actionbar 還有3格開口要覆蓋
+execute @p[scores={f3-ship-h-prog=17}] ~ ~ ~ title @p actionbar 還有2格開口要覆蓋
+execute @p[scores={f3-ship-h-prog=18}] ~ ~ ~ title @p actionbar 還有1格開口要覆蓋

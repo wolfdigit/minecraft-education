@@ -212,55 +212,55 @@ execute @s ~ ~ ~ detect 151 168 647 air 0 setblock 151 153 647 barrier 0 replace
 
 
 # Actionbars
-execute @p[scores={f3-forest-prog=2}] ~ ~ ~ title @p actionbar 52 logs left to remove
-execute @p[scores={f3-forest-prog=3}] ~ ~ ~ title @p actionbar 51 logs left to remove
-execute @p[scores={f3-forest-prog=4}] ~ ~ ~ title @p actionbar 50 logs left to remove
-execute @p[scores={f3-forest-prog=5}] ~ ~ ~ title @p actionbar 49 logs left to remove
-execute @p[scores={f3-forest-prog=6}] ~ ~ ~ title @p actionbar 48 logs left to remove
-execute @p[scores={f3-forest-prog=7}] ~ ~ ~ title @p actionbar 47 logs left to remove
-execute @p[scores={f3-forest-prog=8}] ~ ~ ~ title @p actionbar 46 logs left to remove
-execute @p[scores={f3-forest-prog=9}] ~ ~ ~ title @p actionbar 45 logs left to remove
-execute @p[scores={f3-forest-prog=10}] ~ ~ ~ title @p actionbar 44 logs left to remove
-execute @p[scores={f3-forest-prog=11}] ~ ~ ~ title @p actionbar 43 logs left to remove
-execute @p[scores={f3-forest-prog=12}] ~ ~ ~ title @p actionbar 42 logs left to remove
-execute @p[scores={f3-forest-prog=13}] ~ ~ ~ title @p actionbar 41 logs left to remove
-execute @p[scores={f3-forest-prog=14}] ~ ~ ~ title @p actionbar 40 logs left to remove
-execute @p[scores={f3-forest-prog=15}] ~ ~ ~ title @p actionbar 39 logs left to remove
-execute @p[scores={f3-forest-prog=16}] ~ ~ ~ title @p actionbar 38 logs left to remove
-execute @p[scores={f3-forest-prog=17}] ~ ~ ~ title @p actionbar 37 logs left to remove
-execute @p[scores={f3-forest-prog=18}] ~ ~ ~ title @p actionbar 36 logs left to remove
-execute @p[scores={f3-forest-prog=19}] ~ ~ ~ title @p actionbar 35 logs left to remove
-execute @p[scores={f3-forest-prog=20}] ~ ~ ~ title @p actionbar 34 logs left to remove
-execute @p[scores={f3-forest-prog=21}] ~ ~ ~ title @p actionbar 33 logs left to remove
-execute @p[scores={f3-forest-prog=22}] ~ ~ ~ title @p actionbar 32 logs left to remove
-execute @p[scores={f3-forest-prog=23}] ~ ~ ~ title @p actionbar 31 logs left to remove
-execute @p[scores={f3-forest-prog=24}] ~ ~ ~ title @p actionbar 30 logs left to remove
-execute @p[scores={f3-forest-prog=25}] ~ ~ ~ title @p actionbar 29 logs left to remove
-execute @p[scores={f3-forest-prog=26}] ~ ~ ~ title @p actionbar 28 logs left to remove
-execute @p[scores={f3-forest-prog=27}] ~ ~ ~ title @p actionbar 27 logs left to remove
-execute @p[scores={f3-forest-prog=28}] ~ ~ ~ title @p actionbar 26 logs left to remove
-execute @p[scores={f3-forest-prog=29}] ~ ~ ~ title @p actionbar 25 logs left to remove
-execute @p[scores={f3-forest-prog=30}] ~ ~ ~ title @p actionbar 24 logs left to remove
-execute @p[scores={f3-forest-prog=31}] ~ ~ ~ title @p actionbar 23 logs left to remove
-execute @p[scores={f3-forest-prog=32}] ~ ~ ~ title @p actionbar 22 logs left to remove
-execute @p[scores={f3-forest-prog=33}] ~ ~ ~ title @p actionbar 21 logs left to remove
-execute @p[scores={f3-forest-prog=34}] ~ ~ ~ title @p actionbar 20 logs left to remove
-execute @p[scores={f3-forest-prog=35}] ~ ~ ~ title @p actionbar 19 logs left to remove
-execute @p[scores={f3-forest-prog=36}] ~ ~ ~ title @p actionbar 18 logs left to remove
-execute @p[scores={f3-forest-prog=37}] ~ ~ ~ title @p actionbar 17 logs left to remove
-execute @p[scores={f3-forest-prog=38}] ~ ~ ~ title @p actionbar 16 logs left to remove
-execute @p[scores={f3-forest-prog=39}] ~ ~ ~ title @p actionbar 15 logs left to remove
-execute @p[scores={f3-forest-prog=40}] ~ ~ ~ title @p actionbar 14 logs left to remove
-execute @p[scores={f3-forest-prog=41}] ~ ~ ~ title @p actionbar 13 logs left to remove
-execute @p[scores={f3-forest-prog=42}] ~ ~ ~ title @p actionbar 12 logs left to remove
-execute @p[scores={f3-forest-prog=43}] ~ ~ ~ title @p actionbar 11 logs left to remove
-execute @p[scores={f3-forest-prog=44}] ~ ~ ~ title @p actionbar 10 logs left to remove
-execute @p[scores={f3-forest-prog=45}] ~ ~ ~ title @p actionbar 9 logs left to remove
-execute @p[scores={f3-forest-prog=46}] ~ ~ ~ title @p actionbar 8 logs left to remove
-execute @p[scores={f3-forest-prog=47}] ~ ~ ~ title @p actionbar 7 logs left to remove
-execute @p[scores={f3-forest-prog=48}] ~ ~ ~ title @p actionbar 6 logs left to remove
-execute @p[scores={f3-forest-prog=49}] ~ ~ ~ title @p actionbar 5 logs left to remove
-execute @p[scores={f3-forest-prog=50}] ~ ~ ~ title @p actionbar 4 logs left to remove
-execute @p[scores={f3-forest-prog=51}] ~ ~ ~ title @p actionbar 3 logs left to remove
-execute @p[scores={f3-forest-prog=52}] ~ ~ ~ title @p actionbar 2 logs left to remove
-execute @p[scores={f3-forest-prog=53}] ~ ~ ~ title @p actionbar 1 logs left to remove
+execute @p[scores={f3-forest-prog=2}] ~ ~ ~ title @p actionbar 還要移除52個原木
+execute @p[scores={f3-forest-prog=3}] ~ ~ ~ title @p actionbar 還要移除51個原木
+execute @p[scores={f3-forest-prog=4}] ~ ~ ~ title @p actionbar 還要移除50個原木
+execute @p[scores={f3-forest-prog=5}] ~ ~ ~ title @p actionbar 還要移除49個原木
+execute @p[scores={f3-forest-prog=6}] ~ ~ ~ title @p actionbar 還要移除48個原木
+execute @p[scores={f3-forest-prog=7}] ~ ~ ~ title @p actionbar 還要移除47個原木
+execute @p[scores={f3-forest-prog=8}] ~ ~ ~ title @p actionbar 還要移除46個原木
+execute @p[scores={f3-forest-prog=9}] ~ ~ ~ title @p actionbar 還要移除45個原木
+execute @p[scores={f3-forest-prog=10}] ~ ~ ~ title @p actionbar 還要移除44個原木
+execute @p[scores={f3-forest-prog=11}] ~ ~ ~ title @p actionbar 還要移除43個原木
+execute @p[scores={f3-forest-prog=12}] ~ ~ ~ title @p actionbar 還要移除42個原木
+execute @p[scores={f3-forest-prog=13}] ~ ~ ~ title @p actionbar 還要移除41個原木
+execute @p[scores={f3-forest-prog=14}] ~ ~ ~ title @p actionbar 還要移除40個原木
+execute @p[scores={f3-forest-prog=15}] ~ ~ ~ title @p actionbar 還要移除39個原木
+execute @p[scores={f3-forest-prog=16}] ~ ~ ~ title @p actionbar 還要移除38個原木
+execute @p[scores={f3-forest-prog=17}] ~ ~ ~ title @p actionbar 還要移除37個原木
+execute @p[scores={f3-forest-prog=18}] ~ ~ ~ title @p actionbar 還要移除36個原木
+execute @p[scores={f3-forest-prog=19}] ~ ~ ~ title @p actionbar 還要移除35個原木
+execute @p[scores={f3-forest-prog=20}] ~ ~ ~ title @p actionbar 還要移除34個原木
+execute @p[scores={f3-forest-prog=21}] ~ ~ ~ title @p actionbar 還要移除33個原木
+execute @p[scores={f3-forest-prog=22}] ~ ~ ~ title @p actionbar 還要移除32個原木
+execute @p[scores={f3-forest-prog=23}] ~ ~ ~ title @p actionbar 還要移除31個原木
+execute @p[scores={f3-forest-prog=24}] ~ ~ ~ title @p actionbar 還要移除30個原木
+execute @p[scores={f3-forest-prog=25}] ~ ~ ~ title @p actionbar 還要移除29個原木
+execute @p[scores={f3-forest-prog=26}] ~ ~ ~ title @p actionbar 還要移除28個原木
+execute @p[scores={f3-forest-prog=27}] ~ ~ ~ title @p actionbar 還要移除27個原木
+execute @p[scores={f3-forest-prog=28}] ~ ~ ~ title @p actionbar 還要移除26個原木
+execute @p[scores={f3-forest-prog=29}] ~ ~ ~ title @p actionbar 還要移除25個原木
+execute @p[scores={f3-forest-prog=30}] ~ ~ ~ title @p actionbar 還要移除24個原木
+execute @p[scores={f3-forest-prog=31}] ~ ~ ~ title @p actionbar 還要移除23個原木
+execute @p[scores={f3-forest-prog=32}] ~ ~ ~ title @p actionbar 還要移除22個原木
+execute @p[scores={f3-forest-prog=33}] ~ ~ ~ title @p actionbar 還要移除21個原木
+execute @p[scores={f3-forest-prog=34}] ~ ~ ~ title @p actionbar 還要移除20個原木
+execute @p[scores={f3-forest-prog=35}] ~ ~ ~ title @p actionbar 還要移除19個原木
+execute @p[scores={f3-forest-prog=36}] ~ ~ ~ title @p actionbar 還要移除18個原木
+execute @p[scores={f3-forest-prog=37}] ~ ~ ~ title @p actionbar 還要移除17個原木
+execute @p[scores={f3-forest-prog=38}] ~ ~ ~ title @p actionbar 還要移除16個原木
+execute @p[scores={f3-forest-prog=39}] ~ ~ ~ title @p actionbar 還要移除15個原木
+execute @p[scores={f3-forest-prog=40}] ~ ~ ~ title @p actionbar 還要移除14個原木
+execute @p[scores={f3-forest-prog=41}] ~ ~ ~ title @p actionbar 還要移除13個原木
+execute @p[scores={f3-forest-prog=42}] ~ ~ ~ title @p actionbar 還要移除12個原木
+execute @p[scores={f3-forest-prog=43}] ~ ~ ~ title @p actionbar 還要移除11個原木
+execute @p[scores={f3-forest-prog=44}] ~ ~ ~ title @p actionbar 還要移除10個原木
+execute @p[scores={f3-forest-prog=45}] ~ ~ ~ title @p actionbar 還要移除9個原木
+execute @p[scores={f3-forest-prog=46}] ~ ~ ~ title @p actionbar 還要移除8個原木
+execute @p[scores={f3-forest-prog=47}] ~ ~ ~ title @p actionbar 還要移除7個原木
+execute @p[scores={f3-forest-prog=48}] ~ ~ ~ title @p actionbar 還要移除6個原木
+execute @p[scores={f3-forest-prog=49}] ~ ~ ~ title @p actionbar 還要移除5個原木
+execute @p[scores={f3-forest-prog=50}] ~ ~ ~ title @p actionbar 還要移除4個原木
+execute @p[scores={f3-forest-prog=51}] ~ ~ ~ title @p actionbar 還要移除3個原木
+execute @p[scores={f3-forest-prog=52}] ~ ~ ~ title @p actionbar 還要移除2個原木
+execute @p[scores={f3-forest-prog=53}] ~ ~ ~ title @p actionbar 還要移除1個原木
