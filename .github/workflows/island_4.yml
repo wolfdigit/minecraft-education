@@ -1,0 +1,22 @@
+name: Auto compile Python_Islands_4.mcworld
+
+on:
+  push:
+    branches: 
+    - 'python_islands_4'
+
+jobs:
+  mcworld:
+    name: compile mcworld
+    runs-on: ubuntu-latest
+    steps:
+    - name: action-zip
+      uses: montudor/action-zip@v1.0.0
+      with:
+        args: zip -qq -r Python_Islands_4.mcworld ./*
+    - name: deploy
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Automated deploy mcworld
+        branch: gh-pages
+        file_pattern: '*.mcworld'
