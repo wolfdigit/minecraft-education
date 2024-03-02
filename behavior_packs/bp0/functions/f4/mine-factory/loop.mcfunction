@@ -47,4 +47,4 @@ execute @p[scores={f4-mine-f-prog=20}] ~ ~ ~ scoreboard players set @p f4-mine-f
 
 
 #Action bar
-execute @p[scores={f4-mine-f-prog=1..30}, x=952,y=146,z=624,r=25] ~ ~ ~ title @p actionbar Press "C" to code or touch the Agent icon
+execute @p[scores={f4-mine-f-prog=1..30}, x=952,y=146,z=624,r=25] ~ ~ ~ title @p actionbar 按下"C"或觸控Agent圖示開始寫程式

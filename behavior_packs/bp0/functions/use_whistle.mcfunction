@@ -24,5 +24,5 @@ execute @s[scores={whistle-enabled=1..2}] ~ ~ ~ playsound cd.whistle
 
 # Task specific behavior
 execute @s ~ ~ ~ execute @s[scores={whistle-enabled=2, f4-farm-prog=1..10}] ~ ~ ~ teleport @c 1029 160 569 facing 1028 160 569
-execute @s ~ ~ ~ execute @s[scores={whistle-enabled=2, f4-farm-prog=1..10}] ~ ~ ~ title @s subtitle Agent teleported back to start of task
+execute @s ~ ~ ~ execute @s[scores={whistle-enabled=2, f4-farm-prog=1..10}] ~ ~ ~ title @s subtitle Agent被傳送回到任務的起始點了
 execute @s ~ ~ ~ execute @s[scores={whistle-enabled=2, f4-farm-prog=1..10}] ~ ~ ~ title @s title ...

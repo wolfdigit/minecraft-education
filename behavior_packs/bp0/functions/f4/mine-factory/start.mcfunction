@@ -20,8 +20,8 @@ scoreboard players set @a whistle-enabled 0
 # Open the Notebook URL (using false always)
 codebuilder navigate @p false https://notebooks.minecrafteduservices.com/everglade/ci/index.html?lesson=https://page.wolfdigit.csie.org/minecraft-education/islands/island_4/Mine/Mine_1.json
 
-title @p title Perfect!
-title @p Subtitle I'll get everything ready for you...
+title @p title 太棒了！
+title @p Subtitle 我會幫你準備好所有你需要的東西...
 
 #Set the task scoreboard to the correct task
 scoreboard players set §r objective 400025

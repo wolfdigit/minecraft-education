@@ -15,4 +15,4 @@ execute @p[scores={f6-rocket-prog=1, f6-rocket-count=0..25}] ~ ~ ~ function f6/r
 execute @p[scores={f6-rocket-prog=1, f6-rocket-count=26}] ~ ~ ~ function f6/rocket/finish
 
 # Action bar
-execute @p[x=1056,y=156,z=150,r=20, scores={f6-rocket-prog=1..10}] ~ ~ ~ title @p actionbar Press "C" to code or touch the Agent icon
+execute @p[x=1056,y=156,z=150,r=20, scores={f6-rocket-prog=1..10}] ~ ~ ~ title @p actionbar 按下"C"或觸控Agent圖示開始寫程式

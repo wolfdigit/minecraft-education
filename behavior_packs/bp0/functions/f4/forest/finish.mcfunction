@@ -4,8 +4,8 @@
 scoreboard players set @p f4-forest-comp 1
 
 # Give the player a message telling them that they have completed the task
-execute @p[scores={f4-forest-title=6}] ~ ~ ~ title @p title All Patched Up!
-execute @p[scores={f4-forest-title=6}] ~ ~ ~ title @p subtitle The airship is ready for flight again
+execute @p[scores={f4-forest-title=6}] ~ ~ ~ title @p title 全都補好了！
+execute @p[scores={f4-forest-title=6}] ~ ~ ~ title @p subtitle 這艘飛船準備好再次翱翔天際了
 execute @p[scores={f4-forest-title=6}] ~ ~ ~ scoreboard players set @p f4-forest-title 7
 
 #Give player the Certificate of Air worthyness

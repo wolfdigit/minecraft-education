@@ -21,4 +21,4 @@ execute @p[scores={f2-farm-progress=6, f2-farm-complete=0} ,x=172 ,y=158, z=174,
 execute @p[scores={f2-farm-progress=6, f2-farm-complete=1} ,x=172 ,y=158, z=174, r=25] ~ ~ ~ function f2/Farm/finish
 
 # Background runnings
-execute @p[scores={f2-farm-progress=1..5}, x=172 ,y=158, z=174, r=25] ~ ~ ~ title @s actionbar Press "C" to code or touch the Agent icon
+execute @p[scores={f2-farm-progress=1..5}, x=172 ,y=158, z=174, r=25] ~ ~ ~ title @s actionbar 按下"C"或觸控Agent圖示開始寫程式

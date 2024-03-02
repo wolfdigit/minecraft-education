@@ -6,8 +6,8 @@ scoreboard players set @p f4-mine-f-comp 1
 #Update Island status scoreboard
 
 # Give the player a message telling them that they have completed the task
-execute @p[scores={f4-mine-f-comp=1}] ~ ~ ~ title @p title Well done!
-execute @p[scores={f4-mine-f-comp=1}] ~ ~ ~ title @p Subtitle You found all the Diamonds.
+execute @p[scores={f4-mine-f-comp=1}] ~ ~ ~ title @p title 做得好！
+execute @p[scores={f4-mine-f-comp=1}] ~ ~ ~ title @p Subtitle 你找到所有鑽石了。
 
 #Give the player 1 diamond a a reward for the task
 give @p diamond 1

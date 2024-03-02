@@ -4,8 +4,8 @@
 function f4/mine-factory/reset
 
 #Show a title to tell the player what is going on
-execute @p[scores={f4-mine-f-comp=0}] ~ ~ ~ title @p title ABORT
-execute @p[scores={f4-mine-f-comp=0}] ~ ~ ~ title @p subtitle Leaving Mission. You can start it again anytime. 
+execute @p[scores={f4-mine-f-comp=0}] ~ ~ ~ title @p title 放棄
+execute @p[scores={f4-mine-f-comp=0}] ~ ~ ~ title @p subtitle 離開任務。 你隨時可以再開始任務一次。 
 
 #Enable whistle
 scoreboard players set @a whistle-enabled 1

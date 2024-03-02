@@ -20,17 +20,17 @@ execute @p[x=955, y=147, z=623, dx=5, dy=4, dz=-2, scores={f4-mine-b-blind=1}] ~
 
 # 2 to 17
 function f4/mine-bridge/check_mine_bridge
-execute @p[x=935, y=150, z=627, r=25, scores={f4-mine-b-prog=11, f4-mine-b-title=0}] ~ ~ ~ title @p title I can see the Island
-execute @p[x=935, y=150, z=627, r=25, scores={f4-mine-b-prog=11, f4-mine-b-title=0}] ~ ~ ~ title @p subtitle Only 6 more blocks to go!
+execute @p[x=935, y=150, z=627, r=25, scores={f4-mine-b-prog=11, f4-mine-b-title=0}] ~ ~ ~ title @p title 我看到島嶼了
+execute @p[x=935, y=150, z=627, r=25, scores={f4-mine-b-prog=11, f4-mine-b-title=0}] ~ ~ ~ title @p subtitle 只剩6個方塊遠！
 execute @p[scores={f4-mine-b-prog=11, f4-mine-b-title=0}] ~ ~ ~ scoreboard players set @p f4-mine-b-title 1
 
 # Finish
 execute @p[x=916, y=151, z=627, r=3, scores={f4-mine-b-prog=18}] ~ ~ ~ function f4/mine-bridge/finish
 
 #Action bar
-execute @p[scores={f4-mine-b-prog=1..17}, x=936,y=150,z=627,r=25] ~ ~ ~ title @p actionbar Press "C" to code or touch the Agent icon
+execute @p[scores={f4-mine-b-prog=1..17}, x=936,y=150,z=627,r=25] ~ ~ ~ title @p actionbar 按下"C"或觸控Agent圖示開始寫程式
 
 #Lifebaot
-execute @a[x=937, y=126, z=624, dx=-20, dy=3, dz=7] ~ ~ ~ title @p subtitle Be a bit more careful next time!
-execute @a[x=937, y=126, z=624, dx=-20, dy=3, dz=7] ~ ~ ~ title @p title You nearly fell!
+execute @a[x=937, y=126, z=624, dx=-20, dy=3, dz=7] ~ ~ ~ title @p subtitle 下次要再小心一點！
+execute @a[x=937, y=126, z=624, dx=-20, dy=3, dz=7] ~ ~ ~ title @p title 你差點摔死了！
 execute @a[x=937, y=126, z=624, dx=-20, dy=3, dz=7] ~ ~ ~ tp 936 150 627 facing 935 150 627

@@ -4,8 +4,8 @@
 function f4/farm/reset
 
 #Show a title to tell the player what is going on
-execute @p[scores={f4-mine-b-comp=0}] ~ ~ ~ title @p title Oh no...
-execute @p[scores={f4-mine-b-comp=0}] ~ ~ ~ title @p subtitle Leaving Mission. You can start it again anytime.
+execute @p[scores={f4-mine-b-comp=0}] ~ ~ ~ title @p title 喔不...
+execute @p[scores={f4-mine-b-comp=0}] ~ ~ ~ title @p subtitle 離開任務。 你隨時可以再開始任務一次。
 
 #Enable whistle
 scoreboard players set @a whistle-enabled 1

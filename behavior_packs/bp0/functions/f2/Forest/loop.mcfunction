@@ -31,4 +31,4 @@ execute @p[scores={f2-forest-block1=1,f2-forest-block2=1,f2-forest-block3=1,f2-f
 execute @p[scores={f2-forest-done=0, f2-forest-progre=7}] ~ ~ ~ function f2/Forest/quit
 execute @p[scores={f2-forest-done=1, f2-forest-progre=7}] ~ ~ ~ function f2/Forest/finish
 
-execute @p[scores={f2-forest-progre=2..6}, r=40] ~ ~ ~ title @s actionbar Press "C" to code or touch the Agent icon
+execute @p[scores={f2-forest-progre=2..6}, r=40] ~ ~ ~ title @s actionbar 按下"C"或觸控Agent圖示開始寫程式

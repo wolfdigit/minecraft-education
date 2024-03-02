@@ -25,4 +25,4 @@ execute @p[scores={f6-plant-prog=3, f6-active=1}] ~ ~ ~ detect 1055 154 138 barr
 #detect 1054 154 139 barrier 0 function f6/plant/finish
 
 #Action bar
-execute @p[x=1055, y=156,z=136, r=30, scores={f6-plant-prog=1..10}] ~ ~ ~ title @p actionbar Press "C" to code or touch the Agent icon
+execute @p[x=1055, y=156,z=136, r=30, scores={f6-plant-prog=1..10}] ~ ~ ~ title @p actionbar 按下"C"或觸控Agent圖示開始寫程式

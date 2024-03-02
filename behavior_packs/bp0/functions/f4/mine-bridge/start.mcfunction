@@ -14,7 +14,7 @@ execute @p ~ ~ ~ replaceitem entity @c slot.inventory 0 stone 32
 fill 934 149 627 919 149 627 air 0
 
 #Tell the player what to do with a message
-execute @p[x=935, y=150, z=627, r=25] ~ ~ ~ title @p title Walk over to your agent to get started
+execute @p[x=935, y=150, z=627, r=25] ~ ~ ~ title @p title 走到你的agent那邊開始
 
 #Enable Whistle
 scoreboard players set @a whistle-enabled 1

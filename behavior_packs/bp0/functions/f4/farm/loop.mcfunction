@@ -230,18 +230,18 @@ execute @p[scores={f4-farm-prog=1..10}] ~ ~ ~ detect 1029 159 566 air 0 tp @c 10
 
 
 execute @p[scores={f4-farm-prog=2, f4-farm-title=0}] ~ ~ ~ replaceitem entity @c slot.inventory 0 pointed_dripstone 1 -1
-execute @p[scores={f4-farm-prog=2, f4-farm-title=0}] ~ ~ ~ title @p title 3 Poppies left!
+execute @p[scores={f4-farm-prog=2, f4-farm-title=0}] ~ ~ ~ title @p title 還剩3個罌粟！
 execute @p[scores={f4-farm-prog=2, f4-farm-title=0}] ~ ~ ~ scoreboard players set @p f4-farm-title 1
 
 execute @p[scores={f4-farm-prog=3, f4-farm-title=1}] ~ ~ ~ replaceitem entity @c slot.inventory 0 pointed_dripstone 2 -1
-execute @p[scores={f4-farm-prog=3, f4-farm-title=1}] ~ ~ ~ title @p title 2 Poppies left!
+execute @p[scores={f4-farm-prog=3, f4-farm-title=1}] ~ ~ ~ title @p title 還剩2個罌粟！
 execute @p[scores={f4-farm-prog=3, f4-farm-title=1}] ~ ~ ~ scoreboard players set @p f4-farm-title 2
 
 execute @p[scores={f4-farm-prog=4, f4-farm-title=2}] ~ ~ ~ replaceitem entity @c slot.inventory 0 pointed_dripstone 3 -1
-execute @p[scores={f4-farm-prog=4, f4-farm-title=2}] ~ ~ ~ title @p title 1 Poppy left!
+execute @p[scores={f4-farm-prog=4, f4-farm-title=2}] ~ ~ ~ title @p title 還剩1個罌粟！
 execute @p[scores={f4-farm-prog=4, f4-farm-title=2}] ~ ~ ~ scoreboard players set @p f4-farm-title 3
 
 execute @p[scores={f4-farm-prog=5}] ~ ~ ~ replaceitem entity @c slot.inventory 0 pointed_dripstone 4 -1
 
 #Action bar
-execute @p[scores={f4-farm-prog=1..10}, x=1024,y=163,z=567,r=25] ~ ~ ~ title @p actionbar Press "C" to code or touch the Agent icon
+execute @p[scores={f4-farm-prog=1..10}, x=1024,y=163,z=567,r=25] ~ ~ ~ title @p actionbar 按下"C"或觸控Agent圖示開始寫程式

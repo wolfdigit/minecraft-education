@@ -55,4 +55,4 @@ execute @p[scores={f2-wizard-prog=6}] ~ ~ ~ detect 126 151 167 concrete 14 execu
 
 execute @p[scores={f2-wizard-prog=7}] ~ ~ ~ function f2/Blacksmith/finish
 
-execute @p[scores={f2-wizard-prog=2..7}] ~ ~ ~ title @s actionbar Press "C" to code or touch the Agent icon
+execute @p[scores={f2-wizard-prog=2..7}] ~ ~ ~ title @s actionbar 按下"C"或觸控Agent圖示開始寫程式
