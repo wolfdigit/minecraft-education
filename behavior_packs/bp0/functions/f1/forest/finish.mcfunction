@@ -4,8 +4,8 @@ setblock -360 158 212 air
 setblock -360 158 213 air
 setblock -360 156 212 air
 setblock -360 156 213 air
-title @a title Now that I've helped Nicole...
-title @a subtitle Maybe Marvin could help me get to the mining island?
+title @a title 現在我已經幫忙Nicole了...
+title @a subtitle Marvin應該可以幫我飛到礦場島吧？
 tp @e[type=npc,tag=f1-forest-nicole-start] -348 146 217
 tp @e[type=npc,tag=f1-forest-nicole-end] -353 164 222 facing -353 164 219
 
