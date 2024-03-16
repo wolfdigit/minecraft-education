@@ -7,8 +7,8 @@ scoreboard players set @p f5-bounce-comp 1
 effect @p clear
 
 # Give the player a message telling them that they have completed the task
-execute @p[x=1019, y=159, z=68, r=30] ~ ~ ~ title @p subtitle The telescope is now complete.
-execute @p[x=1019, y=159, z=68, r=30] ~ ~ ~ title @p title Yay!
+execute @p[x=1019, y=159, z=68, r=30] ~ ~ ~ title @p subtitle 望遠鏡完成了。
+execute @p[x=1019, y=159, z=68, r=30] ~ ~ ~ title @p title 耶！
 
 #Reset Agent
 execute @p ~ ~ ~ tp @c 1012 159 77 facing 1012 159 76
@@ -17,7 +17,7 @@ execute @p ~ ~ ~ tp @c 1012 159 77 facing 1012 159 76
 scoreboard players set @a whistle-enabled 1
 
 #Run story notebook
-codebuilder navigate @p true https://meecode.blob.core.windows.net/everglade/ci/index.html?lesson=https://meecode.blob.core.windows.net/everglade/content/row/master/islands/island_5/Telescope_Op/To_Power_Station.json
+codebuilder navigate @p true https://meecode.blob.core.windows.net/everglade/ci/index.html?lesson=https://page.wolfdigit.csie.org/islands/island_5/Telescope_Op/To_Power_Station.json
 
 #Set the task scoreboard to the correct task
 scoreboard players set §r objective 500050

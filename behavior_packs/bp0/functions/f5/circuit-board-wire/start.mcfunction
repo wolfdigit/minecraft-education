@@ -13,13 +13,13 @@ execute @p ~ ~ ~ tp @c 1021 153 102 facing 1021 153 101
 execute @p ~ ~ ~ replaceitem entity @c slot.inventory 0 redstone 64
 
 #Tell the player what to do with a message
-execute @p[x=1021, y=153, z=103, r=30] ~ ~ ~ title @p title Walk over to your agent to get started
+execute @p[x=1021, y=153, z=103, r=30] ~ ~ ~ title @p title 走到你的agent那邊開始
 
 #Disable Whstle
 scoreboard players set @a whistle-enabled 0
 
 # Open the Notebook URL (using false always)
-codebuilder navigate @p false https://notebooks.minecrafteduservices.com/everglade/ci/index.html?lesson=https://notebooks.minecrafteduservices.com/everglade/content/row/master/islands/island_5/Wire/Wire.json
+codebuilder navigate @p false https://notebooks.minecrafteduservices.com/everglade/ci/index.html?lesson=https://page.wolfdigit.csie.org/islands/island_5/Wire/Wire.json
 
 
 #clear all redstone
