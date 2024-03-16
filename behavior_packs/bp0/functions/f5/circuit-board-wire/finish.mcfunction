@@ -7,8 +7,8 @@ scoreboard players set @p f5-wire-comp 1
 effect @p clear
 
 # Give the player a message telling them that they have completed the task
-execute @p[x=1021, y=153, z=103, r=30] ~ ~ ~ title @p subtitle The telescope now has power!
-execute @p[x=1021, y=153, z=103, r=30] ~ ~ ~ title @p title You Did It!
+execute @p[x=1021, y=153, z=103, r=30] ~ ~ ~ title @p subtitle 望遠鏡現在有電源了！
+execute @p[x=1021, y=153, z=103, r=30] ~ ~ ~ title @p title 你做到了！
 
 #Reset Agent
 execute @p ~ ~ ~ tp @c 1025 153 102 facing 1024 153 102

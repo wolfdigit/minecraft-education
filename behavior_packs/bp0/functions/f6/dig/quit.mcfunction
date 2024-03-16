@@ -4,8 +4,8 @@
 function f6/dig/reset
 
 #Show a title to tell the player what is going on
-execute @p[x=1019, y=141, z=110, r=30, scores={f6-plant-comp=0}] ~ ~ ~ title @p title Oh no...
-execute @p[x=1019, y=141, z=110, r=30, scores={f6-plant-comp=0}] ~ ~ ~ title @p subtitle Leaving Mission. You can start it again anytime. 
+execute @p[x=1019, y=141, z=110, r=30, scores={f6-plant-comp=0}] ~ ~ ~ title @p title 噢不...
+execute @p[x=1019, y=141, z=110, r=30, scores={f6-plant-comp=0}] ~ ~ ~ title @p subtitle 離開任務。 你隨時可以再次開始。 
 
 #Enable whistle
 scoreboard players set @a whistle-enabled 1

@@ -7,8 +7,8 @@ scoreboard players set @p f5-light-comp 1
 effect @p clear
 
 # Give the player a message telling them that they have completed the task
-execute @p[x=1010, y=154, z=137, r=30] ~ ~ ~ title @p subtitle You successfully decoded the message
-execute @p[x=1010, y=154, z=137, r=30] ~ ~ ~ title @p title You Did It!
+execute @p[x=1010, y=154, z=137, r=30] ~ ~ ~ title @p subtitle 你成功的解碼出訊息了
+execute @p[x=1010, y=154, z=137, r=30] ~ ~ ~ title @p title 你做到了！
 
 #Reset Agent
 execute @p ~ ~ ~ tp @c 1009 154 136 facing 1010 154 136

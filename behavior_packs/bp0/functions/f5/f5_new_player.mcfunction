@@ -4,8 +4,8 @@ replaceitem entity @p slot.hotbar 0 fishing_rod 1 0 {"minecraft:item_lock":{ "mo
 
 tp @p 1003 153 152 facing 1003 153 150
 
-title @p subtitle Intro to Functions
-title @p title Welcome to Island 5 
+title @p subtitle 認識函數
+title @p title 歡迎來到島嶼5 
 
 # Spawn agent
 summon agent

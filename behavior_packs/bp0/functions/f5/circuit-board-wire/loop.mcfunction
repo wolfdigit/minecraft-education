@@ -14,7 +14,7 @@ execute @p ~ ~ ~ detect 1021 157 89 redstone_wire 0 setblock 1021 155 88 air
 execute @p ~ ~ ~ detect 1021 157 89 air 0 setblock 1021 155 88 air
 
 #Detect redstone
-execute @p[scores={f5-wire-prog=1, f5-wire-title=0}] ~ ~ ~ detect 1021 156 91 redstone_wire -1 title @p title Half way there!
+execute @p[scores={f5-wire-prog=1, f5-wire-title=0}] ~ ~ ~ detect 1021 156 91 redstone_wire -1 title @p title 剩一半了！
 execute @p[scores={f5-wire-prog=1, f5-wire-title=0}] ~ ~ ~ detect 1021 156 91 redstone_wire -1 scoreboard players set @p f5-wire-prog 2
 execute @p[scores={f5-wire-prog=1..2, f5-wire-title=0}] ~ ~ ~ detect 1021 156 91 redstone_wire -1 scoreboard players add @p f5-wire-title 1
 
