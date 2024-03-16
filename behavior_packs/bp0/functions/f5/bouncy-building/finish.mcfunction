@@ -17,7 +17,7 @@ execute @p ~ ~ ~ tp @c 1012 159 77 facing 1012 159 76
 scoreboard players set @a whistle-enabled 1
 
 #Run story notebook
-codebuilder navigate @p true https://meecode.blob.core.windows.net/everglade/ci/index.html?lesson=https://page.wolfdigit.csie.org/islands/island_5/Telescope_Op/To_Power_Station.json
+codebuilder navigate @p true https://meecode.blob.core.windows.net/everglade/ci/index.html?lesson=https://page.wolfdigit.csie.org/minecraft-education/islands/island_5/Telescope_Op/To_Power_Station.json
 
 #Set the task scoreboard to the correct task
 scoreboard players set §r objective 500050
