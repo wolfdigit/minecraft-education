@@ -99,16 +99,16 @@ objective=§l§6- 目前任務 -§r
 
 600000=§f和總理交談   ###Island 6 scoreboard titles
 600010=§f到太空中心(Space Centre)與Davin交談
-600015=§f分析這些花朵Analyse the flowers
-600020=§fGo to Dig Site
-600025=§fUncover the hidden artifacts
-600030=§fGo to rocket at Space Centre
-600040=§fPatch up the rocket
-600050=§fHead to the Airport runway
-600055=§fPaint the runway
-600060=§fInform the Prime Minister
-600070=§fWorld Complete!
+600015=§f分析這些花朵
+600020=§f去往挖掘場(Dig Site)
+600025=§f找出埋藏的化石
+600030=§f去太空中心(Space Centre)的火箭那邊
+600040=§f修補火箭
+600050=§f前往機場(Airport)跑道
+600055=§f繪製跑道
+600060=§f到國會大廈(Parliment)通知總理
+600070=§f世界完成！
 
 
 
-700000=§fExplore the Island  ###Island 7 scoreboard titles
+700000=§f探索這座島  ###Island 7 scoreboard titles
