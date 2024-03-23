@@ -5,13 +5,13 @@
       "description" : "pack.description",
       "name" : "pack.name",
       "platform_locked" : false,
-      "uuid" : "32623531-3338-3066-3534-2d633336612d",
+      "uuid" : "65343838-3766-3865-3534-2d366265372d",
       "version" : [ 1, 0, 5 ]
    },
    "modules" : [
       {
          "type" : "world_template",
-         "uuid" : "44cb6f13-aff0-3a7e-9534-a0c5d3acd2f9",
+         "uuid" : "3c0aeeff-aa65-3342-bcb5-fcc86ac8d87b",
          "version" : [ 1, 0, 5 ]
       }
    ]
